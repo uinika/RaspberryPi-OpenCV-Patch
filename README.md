@@ -1,6 +1,6 @@
 # raspberry-pi-opencv-patch
 
-Missing `.i` file during installation of opencv on Raspberry Pi 4B.
+Missing `.i` & `.h` file during installation of opencv on Raspberry Pi 4B.
 
 ![](./logo.png)
 
